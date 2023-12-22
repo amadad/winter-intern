@@ -1,0 +1,6 @@
+langchain
+deeplake
+openai
+tiktoken
+selenium
+deeplake
