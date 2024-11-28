@@ -1,3 +1,5 @@
 .venv
-/reports
+/doc
+/img
 .env
+*workspace
