@@ -1,5 +1,7 @@
 .venv
-/doc
-/img
+doc/*
+img/*
+out/*
 .env
 *workspace
+.DS_Store
