@@ -4,5 +4,5 @@ img/*
 out/*
 .env
 *workspace
-.DS_Store.DS_Store
+.DS_Store
 .venv
