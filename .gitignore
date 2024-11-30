@@ -5,4 +5,4 @@ out/*
 .env
 *workspace
 .DS_Store
-.venv
+.venv.DS_Store
